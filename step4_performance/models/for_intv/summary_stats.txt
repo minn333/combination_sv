@@ -1,0 +1,48 @@
+Summary statistics (intersect.HG002.mdg)
+Min: 0
+Mean: 13.38
+Max: 499
+25th percentile: 1.0
+Median: 4.0
+75th percentile: 7.0
+Interquartile range (IQR): 6.0
+
+
+
+Summary statistics (intersect.HG002.mdgls)
+Min: 0
+Mean: 29.26
+Max: 499
+25th percentile: 1.0
+Median: 7.0
+75th percentile: 16.0
+Interquartile range (IQR): 15.0
+
+
+
+Summary statistics (union.HG002.mdg)
+Min: 0
+Mean: 7.4
+Max: 499
+25th percentile: 0.0
+Median: 0.0
+75th percentile: 2.0
+Interquartile range (IQR): 2.0
+
+
+
+Summary statistics (union.HG002.mdgls)
+Min: 0
+Mean: 15.52
+Max: 499
+25th percentile: 0.0
+Median: 0.0
+75th percentile: 6.0
+Interquartile range (IQR): 6.0
+
+
+Quantiles, specifically the first and third quantiles, which correspond to the 25th and 75th percentiles.
+Median, the mid-point in the distribution, which also corresponds to the 50th percentile.
+Interquartile range (IQR), the width between the third and first quantiles. Expressed mathematically, we have IQR = Q3 — Q1.
+Min, minimum value in the dataset excluding outliers, which corresponds to Q1–1.5xIQR.
+Max, maximum value in the dataset, excluding outliers, which corresponds to Q3+ 1.5xIQR.
